@@ -16,8 +16,9 @@ public class Ejercicio51ED {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        // Este el comentario número 1
+        // Este es el comentario número 1
         
+        // Este es el comentario número 2
     }
     
 }
