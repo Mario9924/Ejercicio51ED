@@ -9,5 +9,5 @@ package ejercicio51ed;
  * @author Mario_
  */
 public class Personaje {
-    //Revisión 2 - rama 2
+    //Revisión 2 - rama 2.
 }
