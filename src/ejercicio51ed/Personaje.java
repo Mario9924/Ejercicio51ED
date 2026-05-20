@@ -9,5 +9,5 @@ package ejercicio51ed;
  * @author Mario_
  */
 public class Personaje {
-    
+    // Este es un comentario para la rama: rama1, supervisión 1
 }
