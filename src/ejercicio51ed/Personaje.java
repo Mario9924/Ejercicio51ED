@@ -10,4 +10,5 @@ package ejercicio51ed;
  */
 public class Personaje {
     //Revisión 2 - rama 2.
+    // Este es un comentario para la rama: rama1, supervisión 1
 }
